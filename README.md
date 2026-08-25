@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/harikiranap123" target="blank"><img src="https://img.shields.io/twitter/follow/harikiranap123?logo=twitter&style=for-the-badge" alt="harikiranap123" /></a> </p>
 
-- 🌱 I’m currently learning **Masters Of Computer Application**
+- 🌱 I’m currently Intern at **Yaticorp Pvt Ltd as MERN Stack Developer**
 
 - 👨‍💻 PortFolio available at [https://harikiranap.netlify.app/](https://harikiranap.netlify.app/)
 
